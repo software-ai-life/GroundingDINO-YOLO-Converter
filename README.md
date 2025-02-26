@@ -35,4 +35,4 @@ The script [`covert_yolo_format.py`](covert_yolo_format.py) performs the followi
 5. Saves the YOLO annotations to a text file corresponding to each image.
 
 ## Reference
-[Grounding-DINO](!https://github.com/IDEA-Research/GroundingDINO)
+[Grounding-DINO](https://github.com/IDEA-Research/GroundingDINO)
