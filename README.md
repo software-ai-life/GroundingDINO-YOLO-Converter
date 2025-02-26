@@ -33,3 +33,6 @@ The script [`covert_yolo_format.py`](covert_yolo_format.py) performs the followi
 3. Uses the Grounding DINO model to predict bounding boxes, logits, and phrases for each image.
 4. Converts the bounding boxes to YOLO format.
 5. Saves the YOLO annotations to a text file corresponding to each image.
+
+## Reference
+[Grounding-DINO](!https://github.com/IDEA-Research/GroundingDINO)
